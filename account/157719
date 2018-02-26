@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <link href="../css/app.css" rel="stylesheet">
+        <title>WARGOOD — купить аккаунт Warface</title>
+    <link href="../css/lightbox.css" rel="stylesheet">
+    <link href="../css/account.css" rel="stylesheet">
+    <meta name="csrf-token" content="m8GuYRcUuiWZH4wng8lEX7thOvEMI84cDCKKEu7a">
+
+    <meta name="description" content="Купить аккаунт Warface, онлайн магазин аккаунтов Warface">
+    <meta name="keywords" content="Онлайн магазин аккаунтов Warface, купить аккаунт warface, аккаунты warface, купить warface, случайные аккаунты warface, купить аккаунт варфейс, случайные аккаунты варфейс, рандомные аккаунты warface, рандом аккаунты варфейс">
+
+
+    <link rel="manifest" href="../manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "ffbcb56b-f8d9-4db6-8b7c-4f257d3f2838",
+                autoRegister: true,
+                notifyButton: {
+                    enable: false,
+                }
+            });
+                    });
+    </script>
+
+</head>
+<body>
+<header class="header">
+    <div class="logo-block">
+        <a href="../profile">
+            <img src="../images/logo.png" alt="wargood.ru покупай с умом">
+        </a>
+    </div>
+    <div class="header-menu">
+        <ul>
+            <li><a href="../warranties" class="">Гарантии</a></li>
+            <li><a href="../faq" class="">F.A.Q.</a></li>
+            <li><a href="../support" class="">ТЕХ.ПОДДЕРЖКА</a></li>
+            <li class="new"><a href="../sell" class="">ПРОДАТЬ АККАУНТ</a></li>
+        </ul>
+    </div>
+    <div class="login-form">
+                    <div class="nologin">
+                <a href="../login">Вход через вк</a>
+            </div>
+            </div>
+</header>
+
+<section class="grid">
+    <div class="content_headers">
+        <div class="text-block">
+            <h1>покупай <br>с умом!</h1>
+            <p>
+                Наш онлайн-магазин игровых аккаунтов Warface<br>
+                предоставляет возможность безопасных покупок<br>
+                по самым низким ценам, в отличие от других<br>
+                сайтов, где скорее всего, вы будете обмануты<br>
+            </p>
+        </div>
+        <div class="last_buyers">
+            <div class="title">
+                последние покупки
+            </div>
+            <div class="last_buyers_items">
+                                                        <div class="last_buyers_item">
+                        <div class="image_logo_item">
+                            <img src="../images/rang/Rank29.png" alt="29 ранг, сервер: Браво">
+                        </div>
+                        <div class="name_item">
+                            Никита
+                            <span>1 минуту назад</span>
+                        </div>
+                        <span class="tooltiptext">29 ранг, сервер: Браво</span>
+                    </div>
+                                                                            <div class="last_buyers_item">
+                        <div class="image_logo_item">
+                            <img src="../images/rang/Rank18.png" alt="18 ранг, сервер: Альфа">
+                        </div>
+                        <div class="name_item">
+                            Никита
+                            <span>2 минуты назад</span>
+                        </div>
+                        <span class="tooltiptext">18 ранг, сервер: Альфа</span>
+                    </div>
+                                                                            <div class="last_buyers_item">
+                        <div class="image_logo_item">
+                            <img src="../images/rang/Rank27.png" alt="27 ранг, сервер: Чарли">
+                        </div>
+                        <div class="name_item">
+                            Никита
+                            <span>2 минуты назад</span>
+                        </div>
+                        <span class="tooltiptext">27 ранг, сервер: Чарли</span>
+                    </div>
+                                                                            <div class="last_buyers_item">
+                        <div class="image_logo_item">
+                            <img src="../images/rang/Rank25.png" alt="25 ранг, сервер: Альфа">
+                        </div>
+                        <div class="name_item">
+                            Амир
+                            <span>11 минут назад</span>
+                        </div>
+                        <span class="tooltiptext">25 ранг, сервер: Альфа</span>
+                    </div>
+                                                                            <div class="last_buyers_item">
+                        <div class="image_logo_item">
+                            <img src="../images/rang/Rank33.png" alt="33 ранг, сервер: Браво">
+                        </div>
+                        <div class="name_item">
+                            Амир
+                            <span>12 минут назад</span>
+                        </div>
+                        <span class="tooltiptext">33 ранг, сервер: Браво</span>
+                    </div>
+                                                </div>
+        </div>
+        <div class="stats-block">
+            <div class="user-block  animated  bounceIn ">
+                <span class="user-block-count">42484</span>
+                <p>пользователей</p>
+            </div>
+            <div class="online-block  animated  bounceIn ">
+                <span class="online-block-count">17</span>
+                <p>человек <br> онлайн</p>
+            </div>
+            <div class="buys-block  animated  bounceIn ">
+                <span class="buys-block-count">162966</span>
+                <p>количество <br> продаж</p>
+            </div>
+        </div>
+    </div>
+</section><div class="grid grid-pad" style="margin-top: -20px;margin-bottom: 15px;">
+    <div class="col-1-1">
+        <a href="../lottery"><img src="../images/Lm5L7b3.gif" alt=""></a>
+    </div>
+</div>
+
+
+<section class="content ">
+        <div class="grid grid-pad">
+        <div class="col-1-1 account_page">
+            <div class="title">
+                account
+                <h1>
+                    купить 42 ранг <br>
+                    сервер: Чарли
+                </h1>
+            </div>
+            <div class="bar_img">
+                <img src="https://i.imgur.com/oLysFTh.png" alt="">
+
+            </div>
+            <div class="page_content">
+                <div class="image_block">
+                    <div class="image">
+                        <a href="http://i.imgur.com/XGHTI05.png" data-lightbox="roadtrip">
+                            <img src="http://i.imgur.com/XGHTI05.png" alt="">
+                            <span></span>
+                        </a>
+                    </div>
+                    <select id="select_image">
+                        <option value="http://i.imgur.com/XGHTI05.png">Штурмовик</option>
+                        <option value="http://i.imgur.com/XGHTI05.png">Медик</option>
+                        <option value="http://i.imgur.com/XGHTI05.png">Инженер</option>
+                        <option value="http://i.imgur.com/XGHTI05.png">Снайпер</option>
+                    </select>
+                </div>
+                <div class="description-wrapper">
+                                        <div class="description-block">
+                        <p><span>На штурмовика:</span> Донат не проверялся</p>
+                        <p><span>На медика:</span> Донат не проверялся</p>
+                        <p><span>На инженера:</span> Донат не проверялся</p>
+                        <p><span>На снайпера:</span> Донат не проверялся</p>
+                        <p><span>Дополнительно:</span> Донат не проверялся</p>
+                        <p><span>Снаряжение:</span> Не проверялось</p>
+                        <p><span>Скины на медика:</span> Не проверялись</p>
+                        <p><span>Скины на штурмовика:</span> Не проверялись</p>
+                        <p><span>Скины на инженера:</span> Не проверялись</p>
+                        <p><span>Скины на снайпера:</span> Не проверялись</p>
+                    </div>
+                </div>
+                <div class="buy_block">
+                    <ul>
+                        <li class="ico1">Гарантия качества товара</li>
+                        <li class="ico2">Дешевле чем у других</li>
+                        <li class="ico3">Моментальная доставка</li>
+                        <li class="ico4">Без привязки на почте</li>
+                    </ul>
+                                            <a href="157719#" onclick="$('#buy_regular').arcticmodal(); return false;"  class="buy_btn">Купить за 344 руб.</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+
+
+    <div style="display: none">
+        <div class="block-modal" id="buy_regular">
+            <div class="title">покупка аккаунта</div>
+            <div class="box-modal_close arcticmodal-close"></div>
+            <div class="modal-content">
+                <div class="confirm_rec"></div>
+                <div class="confirm_text">
+                    <span>Подтверждаю</span>, что я ознакомлен(а) с <a href="../agreement">соглашением</a> и начал(а)
+                    видеозапись экрана, которая в дальнейшем при необходимости может быть
+                    использована в качестве доказательства неработоспособности товара.
+                </div>
+                <div id="buy_regular_btn" rel="157719">совершить покупку</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<a href="../reviews" class="reviews_link"></a>
+
+<footer class="footer">
+    <div class="grid grid-pad">
+        <div class="col-1-1">
+            <div class="footer_row1">
+                <div class="logo">
+                    <a href="../profile">
+                        <img src="../images/logo_footer.png" alt="WARGOOD — магазин аккаунтов Warface">
+                    </a>
+                </div>
+                <div class="payments">
+                    <a href="https://free-kassa.ru/">
+                        <img src="../images/pay_footer.png" alt="free-kassa">
+                    </a>
+                </div>
+                <div class="counter">
+                    <!--LiveInternet counter--><script type="text/javascript">
+                        document.write("<a href='https://www.liveinternet.ru/click' "+
+                            "target=_blank><img src='https://counter.yadro.ru/hit?t16.6;r&quot;+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;escape(document.referrer)+((typeof(screen)==&quot;undefined&quot;)?&quot;&quot;:&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&quot;;s&quot;+screen.width+&quot;*&quot;+screen.height+&quot;*&quot;+(screen.colorDepth?&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;screen.colorDepth:screen.pixelDepth))+&quot;;u&quot;+escape(document.URL)+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&quot;;h&quot;+escape(document.title.substring(0,150))+&quot;;&quot;+Math.random()+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&quot;' alt='' title='LiveInternet: показано число просмотров за 24"+
+                            " часа, посетителей за 24 часа и за сегодня' "+
+                            "border='0' width='88' height='31'><\/a>")
+                    </script><!--/LiveInternet-->
+
+                    <!-- Yandex.Metrika counter -->
+                    <script type="text/javascript" >
+                        (function (d, w, c) {
+                            (w[c] = w[c] || []).push(function() {
+                                try {
+                                    w.yaCounter47183928 = new Ya.Metrika({
+                                        id:47183928,
+                                        clickmap:true,
+                                        trackLinks:true,
+                                        accurateTrackBounce:true,
+                                        webvisor:true,
+                                        trackHash:true
+                                    });
+                                } catch(e) { }
+                            });
+
+                            var n = d.getElementsByTagName("script")[0],
+                                s = d.createElement("script"),
+                                f = function () { n.parentNode.insertBefore(s, n); };
+                            s.type = "text/javascript";
+                            s.async = true;
+                            s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js";
+
+                            if (w.opera == "[object Opera]") {
+                                d.addEventListener("DOMContentLoaded", f, false);
+                            } else { f(); }
+                        })(document, window, "yandex_metrika_callbacks");
+                    </script>
+                    <noscript><div><img src="https://mc.yandex.ru/watch/47183928" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                    <!-- /Yandex.Metrika counter -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grid grid-pad">
+        <div class="col-1-1">
+            <div class="copyright">
+                © 2018 WARGOOD. Все права защищены
+            </div>
+            <ul class="footer-menu">
+                <li><a href="../warranties">Гарантии</a></li>
+                <li><a href="../faq">F.A.Q.</a></li>
+                <li><a href="../agreement">Соглашение</a></li>
+                <li><a href="../support">Тех. поддержка</a></li>
+                <li><a href="../sell">Продать аккаунт</a></li>
+            </ul>
+            <div class="copyright2">
+                Связь с администрацией - admin@wargood.ru
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="../js/jquery-3.2.1.min.js"></script>
+<script src="../js/toastr.min.js"></script>
+<script src="../js/vue.min.js"></script>
+<script src="../js/vue-resource.min.js"></script>
+<script src="../js/jquery.arcticmodal-0.3.min.js"></script>
+<!--script src="/snowfall.js"></script-->
+<script src="../js/app.js"></script>
+
+    <script src="../js/lightbox.min.js"></script>
+    <script src="../js/jquery.formstyler.min.js"></script>
+    <script>
+        (function($) {
+            $(function() {
+                $('select').styler();
+            });
+        })(jQuery);
+        (function(){
+            if (typeof WebFont != 'undefined') {
+                WebFont.load(WebFontConfig = {
+                    custom: {
+                        families: ['Open Sans']
+                    },
+                    active: function() {
+                        $('select').trigger('refresh');
+                    }
+                });
+            }
+        })();
+        $('.image_block select').change(function() {
+            $('.image_block a').attr('href',$( this ).val());
+            $('.image_block img').attr('src',$( this ).val());
+        });
+    </script>
+
+<!--script type="text/javascript" >
+	$(document).ready(function(){
+        $(document).snowfall({
+            flakeCount: 200,
+            round: true,
+            shadow: true,
+        });
+    });
+</script-->
+</body>
+</html>
